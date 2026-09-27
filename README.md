@@ -1,6 +1,6 @@
 # Workflow Management System
 
-A web-based Workflow Management System built as a final yerar project for my BscIT. This application is designed to streamline task allocation, employee tracking, and project progress monitoring.
+A web-based Workflow Management System built as a final year project for my BscIT. This application is designed to streamline task allocation, employee tracking, and project progress monitoring.
 
 Tech Stack
 Backend: PHP
